@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cafe>
+    <cake>
+        <id>2</id>
+        <name>cake</name>
+        <description>niceCake</description>
+    </cake>
+    <cake>
+        <id>1</id>
+        <name>ccake</name>
+        <description>ccake</description>
+    </cake>
+</cafe>
